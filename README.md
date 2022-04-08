@@ -3,11 +3,11 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: willy.live_1059@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/willy-oliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willy-oliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy-oliveira&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=willy-oliveira&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=willy-oliveira&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Willy-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
