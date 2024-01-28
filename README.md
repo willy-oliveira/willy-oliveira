@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Willy
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: willy.live_1059@hotmail.com
 
 <p align="center">
