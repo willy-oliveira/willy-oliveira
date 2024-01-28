@@ -5,8 +5,7 @@
 
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=willy-oliveira&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-  <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=willy-oliveira&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact"/>
+  <img width="340" height="155" align="center" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=willy-oliveira&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact"/>
 </p>
   
 <div style="display: inline_block"><br>
